@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>thuhole-next - Appcast</title>
+        <item>
+            <title>thuhole-next - Appcast</title>
+            <description>desc</description>
+            <enclosure url="https://github.com/thuhole/webhole-next/releases/download/v0.0.7/v0.0.7.apk" sparkle:version="0.0.7" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
