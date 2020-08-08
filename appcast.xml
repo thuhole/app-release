@@ -5,7 +5,7 @@
         <item>
             <title>thuhole-next - Appcast</title>
             <description>desc</description>
-            <enclosure url="https://download.fastgit.org/thuhole/webhole-next/releases/download/v0.0.7/v0.0.7.apk" sparkle:version="0.0.7" sparkle:os="android" />
+            <enclosure url="https://thuhole.github.io/app-release/" sparkle:version="0.0.7" sparkle:os="android" />
         </item>
     </channel>
 </rss>
